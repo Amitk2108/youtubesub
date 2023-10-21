@@ -16,6 +16,7 @@ The API has several endpoints that let users get data in JSON format, such as a
 
 ![readmeAsssets](./readmeAsssets/3.png)
 4. **"/subscribers/:id "** -> This returns the details of subscriber whose Id is provided in endpoint. http://localhost:3002/subscribers/:id
+br
 http://localhost:3002/subscribers/6533b08a68d87e3fac659c82
 
 ![readmeAsssets](./readmeAsssets/4.png)
