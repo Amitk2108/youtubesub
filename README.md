@@ -19,30 +19,6 @@ The API has several endpoints that let users get data in JSON format, such as a
 
 ![readmeAsssets](./readmeAsssets/4.png)
 
-## Application Folder Structure
-1. [src/app.js] -> For handling requests and responses.
-
-2. [/index.js] -> To connect and start the server.
-
-3. [src/createDatabase.js] -> To create database on MongoDB.
-
-4. [src/data.js] -> Data that has to be connnected to a database.
-
-5. [src/models/subscribers.js] -> For the schema.
-   
-6. [src/index.html] -> The home page for the application.
-```
-├── src/
-│   ├── app.js
-│   ├── createDatabase.js
-│   ├── data.js
-│   ├── index.html 
-│   └── models/
-│       ├── subscribers.js
-├── index.js   
-├── {} package-lock.json
-└── {}package.json
-```
 
 ## Installation 
 
