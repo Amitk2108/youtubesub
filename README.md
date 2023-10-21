@@ -44,9 +44,6 @@ Following dependencie are needed to run this application:
 ## Deployment
 
 
-
-
-
 ## Links
 
 - Github URL: [Github](https://github.com/Amitk2108/youtubesub)
