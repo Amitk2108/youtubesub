@@ -1,7 +1,7 @@
 const express = require('express')
 const app = require('./src/app')
 const mongoose = require('mongoose')
-const port = 3000
+const port = 3002
 
 // Parse JSON bodies (as sent by API clients)
 app.use(express.json())
